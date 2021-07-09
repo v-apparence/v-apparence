@@ -1,4 +1,4 @@
-<a href="https://en.apparence.io"><img src="https://github.com/Apparence-io/bart/raw/master/.github/img/logo.png" alt="Apparence.io logo"></a>
+<a href="https://en.apparence.io"><img src="https://i.ibb.co/vL4zjvF/logoapp.png" alt="Apparence.io logo"></a>
 
 Apparence studio is a team where we constantly learn new things. We prefer quality over quantity. <br>
 From UX/UI design to production.
