@@ -1,7 +1,17 @@
-### Hi there 👋
+<a href="https://en.apparence.io"><img src="https://github.com/Apparence-io/bart/raw/master/.github/img/logo.png" alt="Apparence.io logo"></a>
 
+Apparence studio is a team where we constantly learn new things. We prefer quality over quantity. <br>
+From UX/UI design to production.
+<br>
+
+**We 💙 :** 
+- TDD
+- pair programming 
+- good code
+- Flutter
+- Spring, Kotlin, Rust, Angular...
 <!--
-**v-apparence/v-apparence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**g-apparence/g-apparence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
